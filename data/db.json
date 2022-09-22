@@ -1,0 +1,184 @@
+{
+    "properties": [
+      {
+        "id": 1,
+        "name": "Apartamento ecológico",
+        "imageP": "https://media-cdn.tripadvisor.com/media/vr-splice-j/06/5f/a8/ba.jpg",
+        "location": "Bogota",
+        "area": "200 metros cuadrados",
+        "price": "700.000.000",
+        "type": "Apartamento"
+      },
+      {
+        "id": 2,
+        "name": "Casa Z",
+        "imageP": "https://images.adsttc.com/media/images/5f90/e509/63c0/1779/0100/010e/newsletter/3.jpg?1603331288",
+        "location": "Bogota",
+        "area": "200 metros cuadrados",
+        "price": "300.000.000",
+        "type": "Casa"
+      },
+      {
+        "id": 3,
+        "name": "Casa de campo",
+        "imageP": "https://arqa.com/wp-content/uploads/2022/06/fr_stp_lepine_ext_002_002_al_hr-530x353.jpg",
+        "location": "Bogota",
+        "area": "220 metros cuadrados",
+        "price": "500.000.000",
+        "type": "Casa"
+      },
+      {
+        "id": 4,
+        "name": "Apartamento azul",
+        "imageP": "https://www.lodgify.com/blog/wp-content/uploads/2021/05/decoracion-playa.jpg",
+        "location": "Bogota",
+        "area": "190 metros cuadrados",
+        "price": "600.000.000",
+        "type": "Apartamento"
+      },
+      {
+        "id": 5,
+        "name": "Casa moderna",
+        "imageP": "https://www.construyehogar.com/wp-content/uploads/2020/09/Fachada-de-casa-moderna.jpg",
+        "location": "Bogota",
+        "area": "100 metros cuadrados",
+        "price": "800.000.000",
+        "type": "Casa"
+      },
+      {
+        "id": 6,
+        "name": "Apartamento gris",
+        "imageP": "https://i.pinimg.com/736x/f2/be/ec/f2beec31f14942ea7198786462ee3ac3.jpg",
+        "location": "Bogota",
+        "area": "90 metros cuadrados",
+        "price": "600.000.000",
+        "type": "Apartamento"
+      },
+      {
+        "id": 7,
+        "name": "Casa madera",
+        "imageP": "https://arquitecturaviva.com/assets/uploads/articulos/71318/av_182045.jpeg?h=87ae05d2",
+        "location": "Bogota",
+        "area": "70 metros cuadrados",
+        "price": "350.000.000",
+        "type": "Casa"
+      },
+      {
+        "id": 8,
+        "name": "Apartamento Blanco",
+        "imageP": "https://i.blogs.es/12ef2e/apartamento-blanco-negro-03/450_1000.jpg",
+        "location": "Medellin",
+        "area": "65 metros cuadrados",
+        "price": "300.000.000",
+        "type": "Casa"
+      },
+      {
+        "id": 9,
+        "name": "Casa invertida",
+        "imageP": "https://cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/Q7OP5I4I45EKFIV3PUTOVO6XHA.jpg",
+        "location": "Medellin",
+        "area": "100 metros cuadrados",
+        "price": "700.000.000",
+        "type": "Casa"
+      },
+      {
+        "id": 10,
+        "name": "Apartamento Moderno",
+        "imageP": "https://revistaconstruir.com/wp-content/uploads/2021/01/ARTIS_APARTAMENTOS.png",
+        "location": "Medellin",
+        "area": "100 metros cuadrados",
+        "price": "500.000.000",
+        "type": "Apartamento"
+      },
+      {
+        "id": 11,
+        "name": "Casa Iluminada",
+        "imageP": "https://cdn.cwmedellin.com/upload/1612371380-casa-moderna-y-luminosa-en-venta-en-el-poblado-medellin_(1).JPG",
+        "location": "Medellin",
+        "area": "90 metros cuadrados",
+        "price": "300.000.000",
+        "type": "Casa"
+      },
+      {
+        "id": 12,
+        "name": "Casa Rosedal",
+        "imageP": "https://rosedal.ambiensa.com/images/slides/aryana.jpg",
+        "location": "Medellin",
+        "area": "60 metros cuadrados",
+        "price": "200.000.000",
+        "type": "Casa"
+      },
+      {
+        "id": 13,
+        "name": "Casa Isla",
+        "imageP": "https://images.adsttc.com/media/images/5127/cfe5/b3fc/4b11/a700/297c/large_jpg/1260797836-724577232-sunset.jpg?1361563622",
+        "location": "Cartagena",
+        "area": "110 metros cuadrados",
+        "price": "500.000.000",
+        "type": "Casa"
+      },
+      {
+        "id": 14,
+        "name": "Casa de lujo Playa",
+        "imageP": "https://img.freepik.com/fotos-premium/casa-playa-lujo-piscina-terraza-vistas-al-mar-diseno-moderno_42251-178.jpg?w=2000",
+        "location": "Cartagena",
+        "area": "130 metros cuadrados",
+        "price": "700.000.000",
+        "type": "Casa"
+      },
+      {
+        "id": 15,
+        "name": "Apartamento Playa",
+        "imageP": "https://i.pinimg.com/originals/d7/0f/69/d70f69f1806a912e81861eeb4cbe2a9f.jpg",
+        "location": "Cartagena",
+        "area": "80 metros cuadrados",
+        "price": "300.000.000",
+        "type": "Apartamento"
+      },
+      {
+        "id": 16,
+        "name": "Apartamento Azul",
+        "imageP": "https://i.pinimg.com/736x/cd/0c/e9/cd0ce9d143fb02b36991a3cb3a03373c--ideas-para-room-ideas.jpg",
+        "location": "Cartagena",
+        "area": "70 metros cuadrados",
+        "price": "300.000.000",
+        "type": "Apartamento"
+      },
+      {
+        "id": 17,
+        "name": "Apartamento makaira",
+        "imageP": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357853716.jpg?k=2dacf889a700226f2f993a7da21a13a36c47102b36ede8468e2d096f3af978ca&o=&hp=1",
+        "location": "Cartagena",
+        "area": "80 metros cuadrados",
+        "price": "300.000.000",
+        "type": "Apartamento"
+      },
+      {
+        "id": 18,
+        "name": "Casa Verano",
+        "imageP": "https://www.deplace.es/wp-content/uploads/2019/08/comprar-casa-primera-linea-playa-1200x675.jpg",
+        "location": "Cartagena",
+        "area": "200 metros cuadrados",
+        "price": "800.000.000",
+        "type": "Casa"
+      },
+      {
+        "id": 19,
+        "name": "Casa Acero",
+        "imageP": "https://www.revistaaxxis.com.co/wp-content/uploads/2019/09/llano-axxis1.jpg",
+        "location": "Medellin",
+        "area": "160 metros cuadrados",
+        "price": "1.000.000.000",
+        "type": "Casa"
+      },
+      {
+        "id": 20,
+        "name": "Apartamento Laureles",
+        "imageP": "https://sobreplanos.s3.amazonaws.com/uploads/real_estate_attachment/picture/257083/gs.png",
+        "location": "Medellin",
+        "area": "110 metros cuadrados",
+        "price": "400.000.000",
+        "type": "Apartamento"
+      }
+    ]
+  }
